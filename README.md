@@ -4,7 +4,11 @@ Repositório para organização de arquivos e criação de projetos relacionados
 
 ## Projetos do Curso
 
-* Projeto 1 - [Desafio das Mensagens](https://capeloo.github.io/html-css/desafios/d001/)
+* Projeto 1 - [Hora do Dia](https://capeloo.github.io/javascript/aula12ex/ex014/)
+* Projeto 2 - [Verificador de Idade](https://capeloo.github.io/javascript/aula12ex/ex015/)
+* Projeto 3 - [Super Contador](https://capeloo.github.io/javascript/aula14ex/ex018/)
+* Projeto 4 - [Tabuada](https://capeloo.github.io/javascript/aula14ex/ex019/)
+* Projeto 5 - [Analisador de Números](https://capeloo.github.io/javascript/aula16ex/ex027/)
 
 ## Links Úteis
 

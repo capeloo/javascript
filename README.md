@@ -1,4 +1,4 @@
-# Curso em Vídeo - JavaScript <img width="50"                src="https://camo.githubusercontent.com/2733c2320564cb7250d37785c3350ddd1a7553dc15af6d4b4fec04503c8fd784/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176617363726970742d323033383837342d313732303038372e706e67">
+# Curso em Vídeo - JavaScript <img width="50"                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
 
 Repositório para organização de arquivos e criação de projetos relacionados ao curso.
 
